@@ -2,7 +2,7 @@
 - 👀 I’m interested in learning new stuffs
 - 🌱 I’m currently learning ML
 - 💞️ I’m looking to collaborate on ML projects
-- 📫 How to reach me : aryansahoo2017@gmail.com
+- 📫 How to reach me : aryansahoo.7277@gmail.com
 
 [![@darkrunner7277's Holopin board](https://holopin.me/darkrunner7277)](https://holopin.io/@darkrunner7277)
 <!---
